@@ -7,7 +7,6 @@ A classification project that predicts heart disease using four ML algorithms, w
 heart_disease_prediction/
 ├── heart_disease_prediction.ipynb   # Main notebook
 ├── heart_disease_dataset.csv        # Dataset (200 rows, 13 features)
-├── requirements.txt
 └── README.md
 
 ## 📊 Dataset
